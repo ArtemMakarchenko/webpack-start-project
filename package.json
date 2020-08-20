@@ -1,0 +1,23 @@
+{
+  "name": "webpack-start-project",
+  "version": "1.0.0",
+  "description": "Webpack SetUp",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemMakarchenko/webpack-start-project.git"
+  },
+  "keywords": [
+    "Webpack",
+    "Webpack-SetUp"
+  ],
+  "author": "Artem Makarchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemMakarchenko/webpack-start-project/issues"
+  },
+  "homepage": "https://github.com/ArtemMakarchenko/webpack-start-project#readme"
+}
