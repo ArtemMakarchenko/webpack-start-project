@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/ArtemMakarchenko/webpack-start-project/issues"
   },
-  "homepage": "https://github.com/ArtemMakarchenko/webpack-start-project#readme"
+  "homepage": "https://github.com/ArtemMakarchenko/webpack-start-project#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
 }
